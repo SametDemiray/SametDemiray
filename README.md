@@ -26,10 +26,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/Samet-demiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samet-demiray" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23269733/samet-demiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4836701/bouali-ali" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/alibou_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/boualiali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boualiali" height="30" width="40" /></a>
-<a href="https://discord.gg/Xcw6JyptqA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xcw6JyptqA" height="30" width="40" /></a>
-</p> -->
+<a href="https://instagram.com/sametdmry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/boualiali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boualiali" height="30" width="40" /></a> -->
+<a href="https://discord.gg/sametdemiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sametdemiray" height="30" width="40" /></a>
+</p>
+
 
 
 

@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target=_blank" />
 </div>
  <hr/>
+ <div align="center">
  <a href="https://github.com/SametDemiray">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SametDemiray&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SametDemiray&theme=2077" height="180em" />
@@ -46,6 +47,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SametDemiray&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SametDemiray&theme=2077" height="180em" />
 </div>
-
+     <div align="center">
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SametDemiray&" alt="SametDemiray" /></p>
 
  

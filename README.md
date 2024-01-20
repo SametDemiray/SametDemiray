@@ -46,6 +46,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SametDemiray&theme=2077" height="180em" />
 </div>
      <div align="center">
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SametDemiray&" alt="SametDemiray" /></p>
+
 
  

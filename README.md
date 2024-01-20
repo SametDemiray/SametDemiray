@@ -17,7 +17,7 @@
  💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/issues)**📫 How to reach me **sametdemiray@yahoo.com**
  
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**  
- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Samet-demiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samet-demiray" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 <a href="https://instagram.com/sametdmry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sametdmry" height="30" width="40" /></a>
 <a href="https://discord.gg/sametdemiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sametdemiray" height="30" width="40" /></a>
 </p>
-
+<h1 align="center">
  </div>
  
  <div align="center"> 
@@ -47,5 +47,6 @@
 </div>
      <div align="center">
 
+ <hr/>
 
  

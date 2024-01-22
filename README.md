@@ -5,7 +5,7 @@
 </h1>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SametDemiray" alt="SametDemiray" /></a> </p> -->
-
+ 
 <h3 align="center">A passionate software developer from Turkey 🇹🇷</h3>
 <br/>
 <div align="center">

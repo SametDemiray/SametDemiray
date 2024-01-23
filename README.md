@@ -101,8 +101,8 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SametDemiray&theme=github-compact"/>
 
 
-<p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=SametDemiray&show_icons=true&locale=en&theme=dark" alt="SametDemiray" />   
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SametDemiray&show_icons=true&locale=en&theme=dark" alt="SametDemiray" />   
     
-<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SametDemiray&theme=dark" alt="SametDemiray" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SametDemiray&theme=dark" alt="SametDemiray" /></p>
 
  
